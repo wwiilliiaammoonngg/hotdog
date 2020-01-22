@@ -1,0 +1,20 @@
+h1 {
+    color: red;
+    background-color: oldlace;
+}
+
+h2 {
+    color: rgb(231, 47, 72);
+    background-color: midnightblue;
+}
+
+p {
+    color: palegoldenrod;
+}
+body {
+    background-color: seagreen;
+}
+
+li {
+    color: maroon;
+}
